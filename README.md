@@ -8,7 +8,14 @@ Furthermore, I delved into conditional formatting, a feature that effectively hi
 
 Additionally, I created several charts, which can be found below
  
- 
+ ![image](https://github.com/user-attachments/assets/52c1143d-5231-425e-8e30-40b68575cddf)
+ ![image](https://github.com/user-attachments/assets/6af6d130-94d0-424a-b15d-993bcf4d3df0)
+![image](https://github.com/user-attachments/assets/69f4d720-1cf7-4a66-b0fc-c4b212461517)
+![image](https://github.com/user-attachments/assets/126cfed5-8546-4fe6-b33e-0a0b19ab7acd)
+![image](https://github.com/user-attachments/assets/8f3f549a-2ea3-493d-92c7-c819b4f61de7)
+![image](https://github.com/user-attachments/assets/a0886448-63ff-47af-83c9-155f7768e90c)
+
+
  
  
  
